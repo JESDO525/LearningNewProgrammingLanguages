@@ -11,3 +11,6 @@ I'm going to use this repository to save all my practices in a lot of programmin
 7. Rust
 
 I want to review what I've learned.
+
+
+# Good practices with Git/Github
