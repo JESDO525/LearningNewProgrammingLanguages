@@ -18,7 +18,7 @@ I want to review what I've learned.
 ### Conventional Commits
 El mensaje tiene esta estructura:
 
-<tipo>[ambito opcional]:<descripcion>
+tipo(Archivo):Descripción
 
 Opcionalmente seguido por un cuerpo explicativo y notas al pie.
 
