@@ -49,3 +49,32 @@ Permite que herramientas automáticas generen changelogs y gestionen versiones c
 Esta convención proviene de la comunidad Angular y es ampliamente adoptada para mejorar la claridad y automatización en proyectos de software.​
 
 En conclusión, el estándar para tus mensajes de commit que mencionas es Conventional Commits.
+
+## Good practices with branches
+
+ambién hay buenas prácticas que ayudan a mantener un flujo de trabajo organizado, claro y eficiente, similares a las buenas prácticas en los commits.
+
+Buenas prácticas para crear ramas
+Nombres descriptivos y claros: Elige nombres que indiquen claramente el propósito de la rama. Por ejemplo:
+
+feature/login-ui para una nueva funcionalidad de interfaz de usuario de login.
+
+fix/auth-bug para corregir un error en la autenticación.
+
+chore/update-dependencies para tareas de mantenimiento.
+
+Usar un prefijo o convención: Muchas veces se usan prefijos para identificar el tipo de rama:
+
+feature/ para nuevas funcionalidades.
+
+fix/ para correcciones de errores.
+
+hotfix/ para correcciones urgentes en producción.
+
+release/ para preparaciones antes de un lanzamiento.
+
+experiment/ para trabajo experimental o pruebas.
+
+No usar nombres genéricos o ambiguos: Evita nombres como rama1, nuevo, cambios porque no indican el propósito.
+
+Mantener ramas pequeñas y específicas: Igual que los commits, las ramas deben enfocarse en un cambio o tarea concreta para facilitar revisiones y merges.
