@@ -52,7 +52,7 @@ En conclusión, el estándar para tus mensajes de commit que mencionas es Conven
 
 ## Good practices with branches
 
-ambién hay buenas prácticas que ayudan a mantener un flujo de trabajo organizado, claro y eficiente, similares a las buenas prácticas en los commits.
+También hay buenas prácticas que ayudan a mantener un flujo de trabajo organizado, claro y eficiente, similares a las buenas prácticas en los commits.
 
 Buenas prácticas para crear ramas
 Nombres descriptivos y claros: Elige nombres que indiquen claramente el propósito de la rama. Por ejemplo:
